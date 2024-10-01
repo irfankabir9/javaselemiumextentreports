@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-11T16:24:55Z" name="Suite" finished-at="2024-08-11T16:24:59Z" duration-ms="4042">
+    <groups>
+    </groups>
+    <test started-at="2024-08-11T16:24:55Z" name="Test" finished-at="2024-08-11T16:24:59Z" duration-ms="4042">
+      <class name="zlistenerextentproject.zlistenerextentproject.NewTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:zlistenerextentproject.zlistenerextentproject.NewTest@5b247367]" started-at="2024-08-11T21:54:55Z" name="setup" finished-at="2024-08-11T21:54:59Z" duration-ms="3411" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testLogo()[pri:0, instance:zlistenerextentproject.zlistenerextentproject.NewTest@5b247367]" started-at="2024-08-11T21:54:59Z" name="testLogo" finished-at="2024-08-11T21:54:59Z" duration-ms="88" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogo -->
+        <test-method is-config="true" signature="closesetup()[pri:0, instance:zlistenerextentproject.zlistenerextentproject.NewTest@5b247367]" started-at="2024-08-11T21:54:59Z" name="closesetup" finished-at="2024-08-11T21:54:59Z" duration-ms="194" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closesetup -->
+      </class> <!-- zlistenerextentproject.zlistenerextentproject.NewTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
