@@ -9,7 +9,7 @@ import com.aventstack.extentreports.ExtentTest;
 import com.aventstack.extentreports.Status;
 import com.aventstack.extentreports.reporter.ExtentSparkReporter;
 import com.aventstack.extentreports.reporter.configuration.Theme;
-
+//making the note for the changes to push
 public class ExtentReportManager implements ITestListener {
 
     public ExtentSparkReporter sparkReporter; // UI of the report
